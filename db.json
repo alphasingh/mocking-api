@@ -1,5 +1,9 @@
 {
-  "products/matrix":{
+  "profile":{
+    "name":"Abhay",
+    "role":"Developer"
+  },
+  "products-matrix":{
       "count":5,
       "products":[
         {"id":1,"productName":"P1", "categoryName":"C1"},
