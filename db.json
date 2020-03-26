@@ -15,6 +15,7 @@
         {"id":8,"productName":"P8", "categoryName":"C2"},
         {"id":11,"productName":"P11", "categoryName":"C2"},
         {"id":14,"productName":"P14", "categoryName":"C3"}
+        ],
       "matrix":[
       {
         "product":{"id":1,"productName":"P1", "categoryName":"C1"},
