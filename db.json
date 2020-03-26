@@ -27,7 +27,7 @@
         ]
       },
       {
-        "id:"3",
+        "id":3,
         "product":{"id":5,"productName":"P5", "categoryName":"C1"},
         "compatibleWith":[
           {"id":5,"productName":"P5", "categoryName":"C1"},
