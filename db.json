@@ -19,6 +19,7 @@
         ],
       "compatibility":[
       {
+        "id":1,
         "product":{"id":1,"productName":"P1", "categoryName":"C1"},
         "compatibleWith":[
           {"id":1,"productName":"P1", "categoryName":"C1"},
@@ -26,6 +27,7 @@
         ]
       },
       {
+        "id:"3",
         "product":{"id":5,"productName":"P5", "categoryName":"C1"},
         "compatibleWith":[
           {"id":5,"productName":"P5", "categoryName":"C1"},
@@ -33,6 +35,7 @@
         ]
       },
       {
+        "id":4,
         "product":{"id":8,"productName":"P8", "categoryName":"C2"},
         "compatibleWith":[
           {"id":1,"productName":"P1", "categoryName":"C1"},
@@ -40,6 +43,7 @@
         ]
       },
       {
+        "id":5,
         "product":{"id":11,"productName":"P11", "categoryName":"C2"},
         "compatibleWith":[
           {"id":11,"productName":"P11", "categoryName":"C2"},
@@ -47,6 +51,7 @@
         ]
       },
       {
+        "id":7,
         "product":{"id":14,"productName":"P14", "categoryName":"C3"},
         "compatibleWith":[
           {"id":14,"productName":"P14", "categoryName":"C3"}
