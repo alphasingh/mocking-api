@@ -1,0 +1,121 @@
+openapi: 3.0.0
+info:
+  title: Mock API collections
+  version: '1.0'
+  description: All collections at one place
+  contact:
+    name: Abhay
+    email: abhayraja4@gmail.com
+servers:
+  - url: 'https://stoplight.io/p/mocks/12371/76369'
+    description: Base URL
+paths:
+  /users:
+    get:
+      summary: Get all users
+      tags: []
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: ../models/Student.v1.yaml
+              examples: {}
+      operationId: get-users
+      description: Provides list of Users available in the database
+      security:
+        - oauth: []
+    parameters: []
+    post:
+      summary: ''
+      operationId: post-users
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: ../models/Student.v1.yaml
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: ../models/Student.v1.yaml
+      description: Created a new user if unique is not taken
+  '/users/{id}':
+    parameters:
+      - schema:
+          type: integer
+          maximum: 10000
+          minimum: 0
+        name: id
+        in: path
+        required: true
+        description: ''
+    get:
+      summary: Get user details
+      tags: []
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: ../models/Student.v1.yaml
+              examples: {}
+        '400':
+          description: Bad Request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    enum:
+                      - USER_NOT_FOUND_FOR_ID
+                  code:
+                    type: string
+                  time:
+                    type: string
+                    default: '2020-09-09T09:77ZZ'
+                    format: date-time
+      operationId: get-users-id
+      description: Provides complete details of a particular user
+  /djn:
+    get:
+      summary: Your GET endpoint
+      tags: []
+      responses: {}
+      operationId: get-djn
+components:
+  schemas:
+    driverId:
+      type: integer
+      title: driverId
+      minimum: 0
+      maximum: 10000
+  securitySchemes:
+    X-key:
+      type: apiKey
+      in: header
+      description: An API key provided by backend owner
+      name: x-key
+    oauth:
+      type: oauth2
+      flows:
+        authorizationCode:
+          authorizationUrl: ''
+          tokenUrl: ''
+          refreshUrl: ''
+          scopes: {}
+        password:
+          tokenUrl: /oauth/token
+          refreshUrl: ''
+          scopes: {}
+      description: Provide Authorization header with a valid bearer token
+security:
+  - oauth: []

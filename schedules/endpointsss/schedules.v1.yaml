@@ -1,0 +1,54 @@
+openapi: 3.0.0
+info:
+  title: schedules
+  version: '1.0'
+servers:
+  - url: 'http://localhost:3000'
+paths:
+  /schedules:
+    get:
+      summary: Get a schedule
+      tags: []
+      responses: {}
+      operationId: get-schedules
+    post:
+      summary: Create a schedule
+      tags: []
+      responses: {}
+      operationId: post-schedules
+  '/schedules/{scheduleId}':
+    parameters:
+      - schema:
+          type: string
+        name: scheduleId
+        in: path
+        required: true
+    get:
+      summary: Get schedule details
+      tags: []
+      responses: {}
+      operationId: get-schedules-scheduleId
+    delete:
+      summary: Delete schedule
+      tags: []
+      responses: {}
+      operationId: delete-schedules-scheduleId
+    patch:
+      summary: Update schedule
+      tags: []
+      responses: {}
+      operationId: patch-schedules-scheduleId
+components:
+  schemas:
+    Abhay:
+      type: integer
+      title: Abhay
+      example: '36'
+      minimum: 0
+      maximum: 100
+    schedule:
+      title: schedule
+      type: object
+      properties:
+        id:
+          type: string

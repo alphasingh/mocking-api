@@ -1,0 +1,27 @@
+title: Student
+type: object
+x-tags:
+  - student
+description: Model of student
+x-examples:
+  Abhay:
+    id: 8
+    name: Abhay Raj Singh
+    email: abhay@domain.com
+    points:
+      english: 89
+      french: 78
+properties:
+  id:
+    type: string
+  name:
+    type: string
+  email:
+    type: string
+  points:
+    type: object
+    properties:
+      english:
+        type: integer
+      french:
+        type: integer
