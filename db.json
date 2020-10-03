@@ -6,7 +6,7 @@
   "hacktober":{
     "startedAt":"3 OCT 2020",
     "pr-count":4
-  }
+  },
   "driverSchedules":[
     { "id":1, "driverId":5, "zoneId":4, "startTime":"2020-03-31T02:26:10Z", "endTime":"2020-03-31T12:26:10Z", "createdAt":"2020-03-25T02:26:10Z", "updatedAt":"2020-03-25T02:26:10Z"},
     { "id":2, "driverId":4, "zoneId":4, "startTime":"2020-03-31T02:26:10Z", "endTime":"2020-03-31T12:26:10Z", "createdAt":"2020-03-25T02:26:10Z", "updatedAt":"2020-03-25T02:26:10Z"},
