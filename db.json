@@ -58,7 +58,7 @@
       }
      ]
   },
-  {
+  "bookGroupAppointmentResponse":{
    "resourceType":"Bundle",
    "entry":[
       {
