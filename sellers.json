@@ -1,146 +1,156 @@
 {
-  "profile":{
-    "name":"Abhay",
-    "role":"SDE",
-    "url":"https://github.com/alphasingh"
-  },
-  "metadata":{
-    "updatedAt":"4 June 2021",
-    "totalCount":11,
-    "totalPages":1
-  },
-  "sellers":[
-    {
-  "name":"Ms Tiffins",
-  "description":"We are the best tiffin services, name is Ms Tiffins.",
-  "averagePricePerPerson":10.87,
-  "status":"VERIFIED",
-  "imageUrl":"https://picsum.photos/200/200",
-  "preparations":["VEG", "NON_VEG"],
-  "regions":["PUNJABI", "GUJARATI"],
-  "planTypes":["ONCE", "WEEKLY", "MONTHLY"],
-  "paymentMethodsAvailable":["ONLINE", "COD", "CREDIT_CARD", "GOOGLE_PAY"],
-      "createdAt":"2020-03-25T02:26:10Z", "updatedAt":"2020-03-25T02:26:10Z"
-},
-    {
-  "name":"Yogi Tiffins",
-  "description":"We have the best chef. He is international! Quality food. We have the best chef. He is international! Quality food. Yogi's Kitchen Food Services Inc. and Yogi's Kitchen, Corp. take privacy and data security seriously. We are committed to transparency in the collection, use and disclosure of your personal information. This Privacy Policy describes how we use personal information, and the circumstances under which we may share this information with a third party. This Privacy Policy applies to the privacy practices of Skip on our website located at: or the various associated websites, platforms or applications (collectively and each individually, the We have the best chef. He is international! Quality food. We have the best chef. He is international! Quality food. Yogi's Kitchen Food Services Inc. and Yogi's Kitchen, Corp. take privacy and data security seriously. We are committed to transparency in the collection, use and disclosure of your personal information. This Privacy Policy describes how we use personal information, and the circumstances under which we may share this information with a third party. This Privacy Policy applies to the privacy practices of Skip on our website located at: or the various associated websites, platforms or applications (collectively and each individually, the We have the best chef. He is international! Quality food. We have the best chef. He is international! Quality food. Yogi's Kitchen Food Services Inc. and Yogi's Kitchen, Corp. take privacy and data security seriously. We are committed to transparency in the collection, use and disclosure of your personal information. This Privacy Policy describes how we use personal information, and the circumstances under which we may share this information with a third party. This Privacy Policy applies to the privacy practices of Skip on our website located at: or the various associated websites, platforms or applications (collectively and each individually, the We have the best chef. He is international! Quality food. We have the best chef. He is international! Quality food. Yogi's Kitchen Food Services Inc. and Yogi's Kitchen, Corp. take privacy and data security seriously. We are committed to transparency in the collection, use and disclosure of your personal information. This Privacy Policy describes how we use personal information, and the circumstances under which we may share this information with a third party. This Privacy Policy applies to the privacy practices of Skip on our website located at: or the various associated websites, platforms or applications (collectively and each individually, the We have the best chef. He is international! Quality food. We have the best chef. He is international! Quality food. Yogi's Kitchen Food Services Inc. and Yogi's Kitchen, Corp. take privacy and data security seriously. We are committed to transparency in the collection, use and disclosure of your personal information. This Privacy Policy describes how we use personal information, and the circumstances under which we may share this information with a third party. This Privacy Policy applies to the privacy practices of Skip on our website located at: or the various associated websites, platforms or applications (collectively and each individually, the We have the best chef. He is international! Quality food. We have the best chef. He is international! Quality food. Yogi's Kitchen Food Services Inc. and Yogi's Kitchen, Corp. take privacy and data security seriously. We are committed to transparency in the collection, use and disclosure of your personal information. This Privacy Policy describes how we use personal information, and the circumstances under which we may share this information with a third party. This Privacy Policy applies to the privacy practices of Skip on our website located at: or the various associated websites, platforms or applications (collectively and each individually, the We have the best chef. He is international! Quality food. We have the best chef. He is international! Quality food. Yogi's Kitchen Food Services Inc. and Yogi's Kitchen, Corp. take privacy and data security seriously. We are committed to transparency in the collection, use and disclosure of your personal information. This Privacy Policy describes how we use personal information, and the circumstances under which we may share this information with a third party. This Privacy Policy applies to the privacy practices of Skip on our website located at: or the various associated websites, platforms or applications (collectively and each individually, the We have the best chef. He is international! Quality food. We have the best chef. He is international! Quality food. Yogi's Kitchen Food Services Inc. and Yogi's Kitchen, Corp. take privacy and data security seriously. We are committed to transparency in the collection, use and disclosure of your personal information. This Privacy Policy describes how we use personal information, and the circumstances under which we may share this information with a third party. This Privacy Policy applies to the privacy practices of Skip on our website located at: or the various associated websites, platforms or applications (collectively and each individually, the We have the best chef. He is international! Quality food. We have the best chef. He is international! Quality food. Yogi's Kitchen Food Services Inc. and Yogi's Kitchen, Corp. take privacy and data security seriously. We are committed to transparency in the collection, use and disclosure of your personal information. This Privacy Policy describes how we use personal information, and the circumstances under which we may share this information with a third party. This Privacy Policy applies to the privacy practices of Skip on our website located at: or the various associated websites, platforms or applications (collectively and each individually, the ",
-  "averagePricePerPerson":20.32,
-  "status":"VERIFIED",
-  "imageUrl":"https://picsum.photos/200/200",
-  "preparations":["VEG", "NON_VEG", "EGG", "VEGAN"],
-  "regions":["INTERNATIONAL", "GUJARATI", "PUNJABI", "MEXICAN"],
-  "planTypes":["ONCE", "WEEKLY", "MONTHLY", "YEARLY"],
-  "paymentMethodsAvailable":["ONLINE", "COD", "CREDIT_CARD", "DEBIT_CARD", "GOOGLE_PAY"],
-      "createdAt":"2020-03-25T02:26:10Z", "updatedAt":"2020-03-25T02:26:10Z"
-},
-    {
-  "name":"Homely Tiffins",
-  "description":"We have home cooked food. You will forget home food.",
-  "averagePricePerPerson":7.45,
-  "status":"UNVERIFIED",
-  "imageUrl":"https://picsum.photos/200/200",
-  "preparations":["VEG"],
-  "regions":["INDIAN"],
-  "planTypes":["ONCE"],
-  "paymentMethodsAvailable":["COD"],
-      "createdAt":"2020-03-25T02:26:10Z", "updatedAt":"2020-03-25T02:26:10Z"
-},
-    {
-  "name":"Wah wah Tiffins",
-  "description":"We have amazing food. You will love it. Our customers give us 5 ratings for wah wah food!",
-  "averagePricePerPerson":10.23,
-  "status":"UNVERIFIED",
-  "imageUrl":"https://picsum.photos/200/200",
-  "preparations":["VEG", "EGG"],
-  "regions":["GUJARATI", "PUNJABI", "SOUTH_INDIAN"],
-  "planTypes":["ONCE", "WEEKLY"],
-  "paymentMethodsAvailable":["ONLINE", "COD"],
-      "createdAt":"2020-03-25T02:26:10Z", "updatedAt":"2020-03-25T02:26:10Z"
-},
-    {
-  "name":"Ms Tiffins 5",
-  "description":"We have the best chef. He is international! Quality food. Yogi's Kitchen Food Services Inc. and Yogi's Kitchen, Corp.",
-  "averagePricePerPerson":10.87,
-  "status":"VERIFIED",
-  "imageUrl":"https://picsum.photos/200/200",
-  "preparations":["VEG", "NON_VEG"],
-  "regions":["PUNJABI", "GUJARATI"],
-  "planTypes":["ONCE", "WEEKLY", "MONTHLY"],
-  "paymentMethodsAvailable":["ONLINE", "COD", "CREDIT_CARD", "GOOGLE_PAY"],
-      "createdAt":"2020-03-25T02:26:10Z", "updatedAt":"2020-03-25T02:26:10Z"
-},
-    {
-  "name":"Ms Tiffins 6",
-  "description":"We are the best tiffin services, name is Ms Tiffins.",
-  "averagePricePerPerson":10.87,
-  "status":"VERIFIED",
-  "imageUrl":"https://picsum.photos/200/200",
-  "preparations":["VEG", "NON_VEG"],
-  "regions":["PUNJABI", "GUJARATI"],
-  "planTypes":["ONCE", "WEEKLY", "MONTHLY"],
-  "paymentMethodsAvailable":["ONLINE", "COD", "CREDIT_CARD", "GOOGLE_PAY"],
-      "createdAt":"2020-03-25T02:26:10Z", "updatedAt":"2020-03-25T02:26:10Z"
-},
-    {
-  "name":"Ms Tiffins 7",
-  "description":"We are the best tiffin services, name is Ms Tiffins.",
-  "averagePricePerPerson":10.87,
-  "status":"VERIFIED",
-  "imageUrl":"https://picsum.photos/200/200",
-  "preparations":["VEG", "NON_VEG"],
-  "regions":["PUNJABI", "GUJARATI"],
-  "planTypes":["ONCE", "WEEKLY", "MONTHLY"],
-  "paymentMethodsAvailable":["ONLINE", "COD", "CREDIT_CARD", "GOOGLE_PAY"],
-      "createdAt":"2020-03-25T02:26:10Z", "updatedAt":"2020-03-25T02:26:10Z"
-},
-    {
-  "name":"Ms Tiffins 8",
-  "description":"We are the best tiffin services, name is Ms Tiffins.",
-  "averagePricePerPerson":10.87,
-  "status":"VERIFIED",
-  "imageUrl":"https://picsum.photos/200/200",
-  "preparations":["VEG", "NON_VEG"],
-  "regions":["PUNJABI", "GUJARATI"],
-  "planTypes":["ONCE", "WEEKLY", "MONTHLY"],
-  "paymentMethodsAvailable":["ONLINE", "COD", "CREDIT_CARD", "GOOGLE_PAY"],
-      "createdAt":"2020-03-25T02:26:10Z", "updatedAt":"2020-03-25T02:26:10Z"
-},
-    {
-  "name":"Ms Tiffins 9",
-  "description":"We are the best tiffin services, name is Ms Tiffins.",
-  "averagePricePerPerson":10.87,
-  "status":"VERIFIED",
-  "imageUrl":"https://picsum.photos/200/200",
-  "preparations":["VEG", "NON_VEG"],
-  "regions":["PUNJABI", "GUJARATI"],
-  "planTypes":["ONCE", "WEEKLY", "MONTHLY"],
-  "paymentMethodsAvailable":["ONLINE", "COD", "CREDIT_CARD", "GOOGLE_PAY"],
-      "createdAt":"2020-03-25T02:26:10Z", "updatedAt":"2020-03-25T02:26:10Z"
-},
-    {
-  "name":"Ms Tiffins 10",
-  "description":"We are the best tiffin services, name is Ms Tiffins.",
-  "averagePricePerPerson":10.87,
-  "status":"VERIFIED",
-  "imageUrl":"https://picsum.photos/200/200",
-  "preparations":["VEG", "NON_VEG"],
-  "regions":["PUNJABI", "GUJARATI"],
-  "planTypes":["ONCE", "WEEKLY", "MONTHLY"],
-  "paymentMethodsAvailable":["ONLINE", "COD", "CREDIT_CARD", "GOOGLE_PAY"],
-      "createdAt":"2020-03-25T02:26:10Z", "updatedAt":"2020-03-25T02:26:10Z"
-},
-    {
-  "name":"Ms Tiffins 11",
-  "description":"We are the best tiffin services, name is Ms Tiffins.",
-  "averagePricePerPerson":10.87,
-  "status":"VERIFIED",
-  "imageUrl":"https://picsum.photos/200/200",
-  "preparations":["VEG", "NON_VEG"],
-  "regions":["PUNJABI", "GUJARATI"],
-  "planTypes":["ONCE", "WEEKLY", "MONTHLY"],
-  "paymentMethodsAvailable":["ONLINE", "COD", "CREDIT_CARD", "GOOGLE_PAY"],
-      "createdAt":"2020-03-25T02:26:10Z", "updatedAt":"2020-03-25T02:26:10Z"
-}
-  ]
+	"profile": {
+		"name": "Abhay",
+		"role": "SDE",
+		"url": "https://github.com/alphasingh"
+	},
+	"metadata": {
+		"updatedAt": "4 June 2021",
+		"totalCount": 11,
+		"totalPages": 1
+	},
+	"sellers": [{
+			"name": "Ms Tiffins",
+			"description": "We are the best tiffin services, name is Ms Tiffins.",
+			"averagePricePerPerson": 10.87,
+			"status": "VERIFIED",
+			"imageUrl": "https://picsum.photos/200/200",
+			"preparations": ["VEG", "NON_VEG"],
+			"regions": ["PUNJABI", "GUJARATI"],
+			"planTypes": ["ONCE", "WEEKLY", "MONTHLY"],
+			"paymentMethodsAvailable": ["ONLINE", "COD", "CREDIT_CARD", "GOOGLE_PAY"],
+			"createdAt": "2020-03-25T02:26:10Z",
+			"updatedAt": "2020-03-25T02:26:10Z"
+		},
+		{
+			"name": "Yogi Tiffins",
+			"description": "We have the best chef. He is international! Quality food. We have the best chef. He is international! Quality food. Yogi's Kitchen Food Services Inc. and Yogi's Kitchen, Corp. take privacy and data security seriously. We are committed to transparency in the collection, use and disclosure of your personal information. This Privacy Policy describes how we use personal information, and the circumstances under which we may share this information with a third party. This Privacy Policy applies to the privacy practices of Skip on our website located at: or the various associated websites, platforms or applications (collectively and each individually, the We have the best chef. He is international! Quality food. We have the best chef. He is international! Quality food. Yogi's Kitchen Food Services Inc. and Yogi's Kitchen, Corp. take privacy and data security seriously. We are committed to transparency in the collection, use and disclosure of your personal information. This Privacy Policy describes how we use personal information, and the circumstances under which we may share this information with a third party. This Privacy Policy applies to the privacy practices of Skip on our website located at: or the various associated websites, platforms or applications (collectively and each individually, the We have the best chef. He is international! Quality food. We have the best chef. He is international! Quality food. Yogi's Kitchen Food Services Inc. and Yogi's Kitchen, Corp. take privacy and data security seriously. We are committed to transparency in the collection, use and disclosure of your personal information. This Privacy Policy describes how we use personal information, and the circumstances under which we may share this information with a third party. This Privacy Policy applies to the privacy practices of Skip on our website located at: or the various associated websites, platforms or applications (collectively and each individually, the We have the best chef. He is international! Quality food. We have the best chef. He is international! Quality food. Yogi's Kitchen Food Services Inc. and Yogi's Kitchen, Corp. take privacy and data security seriously. We are committed to transparency in the collection, use and disclosure of your personal information. This Privacy Policy describes how we use personal information, and the circumstances under which we may share this information with a third party. This Privacy Policy applies to the privacy practices of Skip on our website located at: or the various associated websites, platforms or applications (collectively and each individually, the We have the best chef. He is international! Quality food. We have the best chef. He is international! Quality food. Yogi's Kitchen Food Services Inc. and Yogi's Kitchen, Corp. take privacy and data security seriously. We are committed to transparency in the collection, use and disclosure of your personal information. This Privacy Policy describes how we use personal information, and the circumstances under which we may share this information with a third party. This Privacy Policy applies to the privacy practices of Skip on our website located at: or the various associated websites, platforms or applications (collectively and each individually, the We have the best chef. He is international! Quality food. We have the best chef. He is international! Quality food. Yogi's Kitchen Food Services Inc. and Yogi's Kitchen, Corp. take privacy and data security seriously. We are committed to transparency in the collection, use and disclosure of your personal information. This Privacy Policy describes how we use personal information, and the circumstances under which we may share this information with a third party. This Privacy Policy applies to the privacy practices of Skip on our website located at: or the various associated websites, platforms or applications (collectively and each individually, the We have the best chef. He is international! Quality food. We have the best chef. He is international! Quality food. Yogi's Kitchen Food Services Inc. and Yogi's Kitchen, Corp. take privacy and data security seriously. We are committed to transparency in the collection, use and disclosure of your personal information. This Privacy Policy describes how we use personal information, and the circumstances under which we may share this information with a third party. This Privacy Policy applies to the privacy practices of Skip on our website located at: or the various associated websites, platforms or applications (collectively and each individually, the We have the best chef. He is international! Quality food. We have the best chef. He is international! Quality food. Yogi's Kitchen Food Services Inc. and Yogi's Kitchen, Corp. take privacy and data security seriously. We are committed to transparency in the collection, use and disclosure of your personal information. This Privacy Policy describes how we use personal information, and the circumstances under which we may share this information with a third party. This Privacy Policy applies to the privacy practices of Skip on our website located at: or the various associated websites, platforms or applications (collectively and each individually, the We have the best chef. He is international! Quality food. We have the best chef. He is international! Quality food. Yogi's Kitchen Food Services Inc. and Yogi's Kitchen, Corp. take privacy and data security seriously. We are committed to transparency in the collection, use and disclosure of your personal information. This Privacy Policy describes how we use personal information, and the circumstances under which we may share this information with a third party. This Privacy Policy applies to the privacy practices of Skip on our website located at: or the various associated websites, platforms or applications (collectively and each individually, the ",
+			"averagePricePerPerson": 20.32,
+			"status": "VERIFIED",
+			"imageUrl": "https://picsum.photos/200/200",
+			"preparations": ["VEG", "NON_VEG", "EGG", "VEGAN"],
+			"regions": ["INTERNATIONAL", "GUJARATI", "PUNJABI", "MEXICAN"],
+			"planTypes": ["ONCE", "WEEKLY", "MONTHLY", "YEARLY"],
+			"paymentMethodsAvailable": ["ONLINE", "COD", "CREDIT_CARD", "DEBIT_CARD", "GOOGLE_PAY"],
+			"createdAt": "2020-03-25T02:26:10Z",
+			"updatedAt": "2020-03-25T02:26:10Z"
+		},
+		{
+			"name": "Homely Tiffins",
+			"description": "We have home cooked food. You will forget home food.",
+			"averagePricePerPerson": 7.45,
+			"status": "UNVERIFIED",
+			"imageUrl": "https://picsum.photos/200/200",
+			"preparations": ["VEG"],
+			"regions": ["INDIAN"],
+			"planTypes": ["ONCE"],
+			"paymentMethodsAvailable": ["COD"],
+			"createdAt": "2020-03-25T02:26:10Z",
+			"updatedAt": "2020-03-25T02:26:10Z"
+		},
+		{
+			"name": "Wah wah Tiffins",
+			"description": "We have amazing food. You will love it. Our customers give us 5 ratings for wah wah food!",
+			"averagePricePerPerson": 10.23,
+			"status": "UNVERIFIED",
+			"imageUrl": "https://picsum.photos/200/200",
+			"preparations": ["VEG", "EGG"],
+			"regions": ["GUJARATI", "PUNJABI", "SOUTH_INDIAN"],
+			"planTypes": ["ONCE", "WEEKLY"],
+			"paymentMethodsAvailable": ["ONLINE", "COD"],
+			"createdAt": "2020-03-25T02:26:10Z",
+			"updatedAt": "2020-03-25T02:26:10Z"
+		},
+		{
+			"name": "Ms Tiffins 5",
+			"description": "We have the best chef. He is international! Quality food. Yogi's Kitchen Food Services Inc. and Yogi's Kitchen, Corp.",
+			"averagePricePerPerson": 10.87,
+			"status": "VERIFIED",
+			"imageUrl": "https://picsum.photos/200/200",
+			"preparations": ["VEG", "NON_VEG"],
+			"regions": ["PUNJABI", "GUJARATI"],
+			"planTypes": ["ONCE", "WEEKLY", "MONTHLY"],
+			"paymentMethodsAvailable": ["ONLINE", "COD", "CREDIT_CARD", "GOOGLE_PAY"],
+			"createdAt": "2020-03-25T02:26:10Z",
+			"updatedAt": "2020-03-25T02:26:10Z"
+		},
+		{
+			"name": "Ms Tiffins 6",
+			"description": "We are the best tiffin services, name is Ms Tiffins.",
+			"averagePricePerPerson": 10.87,
+			"status": "VERIFIED",
+			"imageUrl": "https://picsum.photos/200/200",
+			"preparations": ["VEG", "NON_VEG"],
+			"regions": ["PUNJABI", "GUJARATI"],
+			"planTypes": ["ONCE", "WEEKLY", "MONTHLY"],
+			"paymentMethodsAvailable": ["ONLINE", "COD", "CREDIT_CARD", "GOOGLE_PAY"],
+			"createdAt": "2020-03-25T02:26:10Z",
+			"updatedAt": "2020-03-25T02:26:10Z"
+		},
+		{
+			"name": "Ms Tiffins 7",
+			"description": "We are the best tiffin services, name is Ms Tiffins.",
+			"averagePricePerPerson": 10.87,
+			"status": "VERIFIED",
+			"imageUrl": "https://picsum.photos/200/200",
+			"preparations": ["VEG", "NON_VEG"],
+			"regions": ["PUNJABI", "GUJARATI"],
+			"planTypes": ["ONCE", "WEEKLY", "MONTHLY"],
+			"paymentMethodsAvailable": ["ONLINE", "COD", "CREDIT_CARD", "GOOGLE_PAY"],
+			"createdAt": "2020-03-25T02:26:10Z",
+			"updatedAt": "2020-03-25T02:26:10Z"
+		},
+		{
+			"name": "Ms Tiffins 8",
+			"description": "We are the best tiffin services, name is Ms Tiffins.",
+			"averagePricePerPerson": 10.87,
+			"status": "VERIFIED",
+			"imageUrl": "https://picsum.photos/200/200",
+			"preparations": ["VEG", "NON_VEG"],
+			"regions": ["PUNJABI", "GUJARATI"],
+			"planTypes": ["ONCE", "WEEKLY", "MONTHLY"],
+			"paymentMethodsAvailable": ["ONLINE", "COD", "CREDIT_CARD", "GOOGLE_PAY"],
+			"createdAt": "2020-03-25T02:26:10Z",
+			"updatedAt": "2020-03-25T02:26:10Z"
+		},
+		{
+			"name": "Ms Tiffins 9",
+			"description": "We are the best tiffin services, name is Ms Tiffins.",
+			"averagePricePerPerson": 10.87,
+			"status": "VERIFIED",
+			"imageUrl": "https://picsum.photos/200/200",
+			"preparations": ["VEG", "NON_VEG"],
+			"regions": ["PUNJABI", "GUJARATI"],
+			"planTypes": ["ONCE", "WEEKLY", "MONTHLY"],
+			"paymentMethodsAvailable": ["ONLINE", "COD", "CREDIT_CARD", "GOOGLE_PAY"],
+			"createdAt": "2020-03-25T02:26:10Z",
+			"updatedAt": "2020-03-25T02:26:10Z"
+		},
+		{
+			"name": "Ms Tiffins 10",
+			"description": "We are the best tiffin services, name is Ms Tiffins.",
+			"averagePricePerPerson": 10.87,
+			"status": "VERIFIED",
+			"imageUrl": "https://picsum.photos/200/200",
+			"preparations": ["VEG", "NON_VEG"],
+			"regions": ["PUNJABI", "GUJARATI"],
+			"planTypes": ["ONCE", "WEEKLY", "MONTHLY"],
+			"paymentMethodsAvailable": ["ONLINE", "COD", "CREDIT_CARD", "GOOGLE_PAY"],
+			"createdAt": "2020-03-25T02:26:10Z",
+			"updatedAt": "2020-03-25T02:26:10Z"
+		},
+		{
+			"name": "Ms Tiffins 11",
+			"description": "We are the best tiffin services, name is Ms Tiffins.",
+			"averagePricePerPerson": 10.87,
+			"status": "VERIFIED",
+			"imageUrl": "https://picsum.photos/200/200",
+			"preparations": ["VEG", "NON_VEG"],
+			"regions": ["PUNJABI", "GUJARATI"],
+			"planTypes": ["ONCE", "WEEKLY", "MONTHLY"],
+			"paymentMethodsAvailable": ["ONLINE", "COD", "CREDIT_CARD", "GOOGLE_PAY"],
+			"createdAt": "2020-03-25T02:26:10Z",
+			"updatedAt": "2020-03-25T02:26:10Z"
+		}
+	]
 }
