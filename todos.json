@@ -1,0 +1,24 @@
+{
+  "profile": {
+    "name": "Abhay",
+    "role": "SDE",
+    "url": "https://github.com/alphasingh"
+  },
+  "metadata": {
+    "updatedAt": "4 June 2021",
+    "totalCount": 11,
+    "totalPages": 1
+  },
+  "todos": [
+    {
+      "id": 1,
+      "task": "Pick up kids from school",
+      "isCompleted": false
+    },
+    {
+      "id": 2,
+      "task": "Prepare for presentation",
+      "isCompleted": true
+    }
+  ]
+}
